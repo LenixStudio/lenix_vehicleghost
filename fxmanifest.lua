@@ -1,6 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Trippler Scripts'
+author 'https://github.com/LenixDev'
+version '0.2.0'
 
-client_script 'client/main.js'
+client_script 'build/client.js'
